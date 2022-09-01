@@ -25,7 +25,7 @@ Users will be categorized as; Administrator Interfaces, Staff Interfaces
 2. Sign up
   ![alt text](https://github.com/Dhvanil16/OM-Hostel-Management-System/blob/main/Screenshot/signup.jpeg)
 3. Dashboard
-  ![https://github.com/Dhvanil16/OM-Hostel-Management-System/blob/main/Screenshot/Homepage.jpeg)
+  ![alt text](https://github.com/Dhvanil16/OM-Hostel-Management-System/blob/main/Screenshot/Homepage.jpeg)
 4. Dashboard 2
   ![alt text](https://github.com/Dhvanil16/OM-Hostel-Management-System/blob/main/Screenshot/homepage2.jpeg)
 5. Userlist
