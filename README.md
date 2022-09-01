@@ -19,3 +19,22 @@ Users will be categorized as; Administrator Interfaces, Staff Interfaces
 •	update the student details.\
 •	update the attendance details
 
+## Screenshot
+1. Login
+  ![alt text](https://github.com/Dhvanil16/OM-Hostel-Management-System/blob/main/Screenshot/signin.jpeg)
+2. Sign up
+  ![alt text](https://github.com/Dhvanil16/OM-Hostel-Management-System/blob/main/Screenshot/signup.jpeg)
+3. Dashboard
+  ![https://github.com/Dhvanil16/OM-Hostel-Management-System/blob/main/Screenshot/Homepage.jpeg)
+4. Dashboard 2
+  ![alt text](https://github.com/Dhvanil16/OM-Hostel-Management-System/blob/main/Screenshot/homepage2.jpeg)
+5. Userlist
+  ![alt text](https://github.com/Dhvanil16/OM-Hostel-Management-System/blob/main/Screenshot/Userlist.jpeg)
+6. StudentEdit
+  ![alt text](https://github.com/Dhvanil16/OM-Hostel-Management-System/blob/main/Screenshot/StudentEdit.jpeg)
+7. Attendence
+  ![alt text](https://github.com/Dhvanil16/OM-Hostel-Management-System/blob/main/Screenshot/Attendence%20Report.jpeg)
+8. Attendence Edit
+  ![alt text](https://github.com/Dhvanil16/OM-Hostel-Management-System/blob/main/Screenshot/AttendenceEdit.jpeg)
+9. Report
+  ![alt text](https://github.com/Dhvanil16/OM-Hostel-Management-System/blob/main/Screenshot/Report.PNG)
