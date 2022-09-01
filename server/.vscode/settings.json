@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/f277cca8-6812-4c1b-8b18-9241f10e0205/microsoft.web/sites/subscriptions/f277cca8-6812-4c1b-8b18-9241f10e0205/resourceGroups/SIRIUS2022/providers/Microsoft.Web/sites/hosteldazes4",
+    "appService.deploySubpath": "."
+}
