@@ -10,12 +10,12 @@ Users will be categorized as; Administrator Interfaces, Staff Interfaces
 •	Student Branch\
 •	Student Year\
 •	Student Room No.\
-•	Student Permanent Address\
-### Following information will be given by Administrator:\
+•	Student Permanent Address
+### Following information will be given by Administrator:
 •	Students’ details\
 •	Room Details\
 •	Attendance Details\
-### Updating by database manager:\
+### Updating by database manager:
 •	update the student details.\
-•	update the attendance details\
+•	update the attendance details
 
